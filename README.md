@@ -1,0 +1,2 @@
+# eyetracker_spectrum_analytics
+アイトラッカーのデータをスペクトル解析できるスクリプト
